@@ -5,6 +5,9 @@ const List = () => {
   return (
     <div className='listFrame'>
         <MusicItem/>
+        <MusicItem/>
+        <MusicItem/>
+        <MusicItem/>
     </div>
   )
 }
