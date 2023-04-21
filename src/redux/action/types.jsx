@@ -1,0 +1,2 @@
+export const SET_SEARCH_TERM = 'SET_SEARCH_TERM';
+export const SET_SORT_TYPE = 'SET_SORT_TYPE';
