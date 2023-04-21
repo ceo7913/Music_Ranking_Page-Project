@@ -23,3 +23,10 @@
 - router 폴더안에 index.jsx 로 전체 router 관리
 
 - css 는 scss 한 파일로 관리
+
+## 참고
+- https://cocoon1787.tistory.com/708
+
+- https://github.com/prgrms-web-devcourse/Team-Forest-RG-FE
+
+- https://fe-developers.kakaoent.com/2022/220505-how-page-part-use-atomic-design-system/
