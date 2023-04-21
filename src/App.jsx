@@ -1,8 +1,13 @@
-import './styles/styles.min.css';
+import "./styles/styles.min.css"
+import Router from './router';
+import { BrowserRouter } from 'react-router-dom';
 
 function App() {
   return (
     <div className="App">
+       <BrowserRouter>
+            <Router/>
+       </BrowserRouter>
     </div>
   );
 }
